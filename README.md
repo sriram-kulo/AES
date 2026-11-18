@@ -10,6 +10,7 @@ AES operates on a 4 × 4 column-major order array of bytes, termed the state
 # PROGRAM:
 
 # OUTPUT:
+<img width="646" height="152" alt="image" src="https://github.com/user-attachments/assets/a23875f3-3bf7-40f8-9155-da3b287f5763" />
 
 
 # RESULT:
